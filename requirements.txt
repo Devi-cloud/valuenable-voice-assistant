@@ -1,0 +1,10 @@
+Flask
+Speech Recognition
+gTTS
+googletrans==4.0.0rc1
+spacy
+fuzzywuzzy
+python-Levenshtein
+sounddevice
+wavio
+playsound
